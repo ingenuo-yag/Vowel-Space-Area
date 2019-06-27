@@ -1,0 +1,9 @@
+figure;
+subplot(2,2,1);
+CreateSpectrum('/Users/yashagrawal/Desktop/Speech-Processing/VSA_codes/MichiganVowelDataset/men/m01ih.wav',216)
+subplot(2,2,2); 
+CreateSpectrum('/Users/yashagrawal/Desktop/Speech-Processing/VSA_codes/MichiganVowelDataset/men/m01oo.wav',258)
+subplot(2,2,3); 
+CreateSpectrum('/Users/yashagrawal/Desktop/Speech-Processing/VSA_codes/MichiganVowelDataset/men/m01ae.wav',304)
+subplot(2,2,4); 
+CreateSpectrum('/Users/yashagrawal/Desktop/Speech-Processing/VSA_codes/MichiganVowelDataset/men/m01aw.wav',290)
